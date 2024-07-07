@@ -1,0 +1,15 @@
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\bin\Debug\net8.0\WorldSimulator.exe
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\bin\Debug\net8.0\WorldSimulator.deps.json
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\bin\Debug\net8.0\WorldSimulator.runtimeconfig.json
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\bin\Debug\net8.0\WorldSimulator.dll
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\bin\Debug\net8.0\WorldSimulator.pdb
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\obj\Debug\net8.0\WorldSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\obj\Debug\net8.0\WorldSimulator.AssemblyInfoInputs.cache
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\obj\Debug\net8.0\WorldSimulator.AssemblyInfo.cs
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\obj\Debug\net8.0\WorldSimulator.csproj.CoreCompileInputs.cache
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\obj\Debug\net8.0\WorldSimulator.sourcelink.json
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\obj\Debug\net8.0\WorldSimulator.dll
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\obj\Debug\net8.0\refint\WorldSimulator.dll
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\obj\Debug\net8.0\WorldSimulator.pdb
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\obj\Debug\net8.0\WorldSimulator.genruntimeconfig.cache
+D:\GitHub\WorldSimulator\WorldSimulator\WorldSimulator\obj\Debug\net8.0\ref\WorldSimulator.dll

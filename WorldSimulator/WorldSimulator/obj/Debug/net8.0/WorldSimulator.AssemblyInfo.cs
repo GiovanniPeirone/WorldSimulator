@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorldSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+062e605e5359523f265ecddddccc7adde27a4a6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ebbf8afab8143d0d0d5708a751562e603537447")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorldSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorldSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

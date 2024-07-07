@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E350E71D-0309-4E96-A944-C97BBD1D25C2}|WorldSimulator\\WorldSimulator.csproj|d:\\github\\worldsimulator\\worldsimulator\\worldsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E350E71D-0309-4E96-A944-C97BBD1D25C2}|WorldSimulator\\WorldSimulator.csproj|solutionrelative:worldsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E350E71D-0309-4E96-A944-C97BBD1D25C2}|WorldSimulator\\WorldSimulator.csproj|d:\\github\\worldsimulator\\worldsimulator\\worldsimulator\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E350E71D-0309-4E96-A944-C97BBD1D25C2}|WorldSimulator\\WorldSimulator.csproj|solutionrelative:worldsimulator\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +32,22 @@
               "RelativeDocumentMoniker": "WorldSimulator\\Program.cs",
               "ToolTip": "D:\\GitHub\\WorldSimulator\\WorldSimulator\\WorldSimulator\\Program.cs",
               "RelativeToolTip": "WorldSimulator\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T00:54:31.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.cs",
+              "DocumentMoniker": "D:\\GitHub\\WorldSimulator\\WorldSimulator\\WorldSimulator\\game.cs",
+              "RelativeDocumentMoniker": "WorldSimulator\\game.cs",
+              "ToolTip": "D:\\GitHub\\WorldSimulator\\WorldSimulator\\WorldSimulator\\game.cs",
+              "RelativeToolTip": "WorldSimulator\\game.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T00:57:18.613Z",
               "EditorCaption": ""
             }
           ]
